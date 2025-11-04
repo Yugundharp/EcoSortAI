@@ -1,6 +1,3 @@
-// hey this is the code for a chatbot page in a React application using Chakra UI for styling.
-// It includes state management for messages, input handling, and API interaction to send and
-//  receive chat messages.
 import { useState, useRef, useEffect } from "react";
 import {
   Box,
